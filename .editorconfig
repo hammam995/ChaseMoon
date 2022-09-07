@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0649: El campo 'EnemyFollowers.speed' nunca se asigna y siempre tendrá el valor predeterminado 0
+dotnet_diagnostic.CS0649.severity = silent
